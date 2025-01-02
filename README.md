@@ -1,1 +1,1 @@
-learning to use github
+Learning to use Github
